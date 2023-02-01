@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MonirujjamanMamun</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh.</h3>
 
-![Header width="fit" height="300"](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Header width="100%" height="300"](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 <p align="left"> <a href="https://twitter.com/monirujjamanma8" target="blank"><img src="https://img.shields.io/twitter/follow/monirujjamanma8?logo=twitter&style=for-the-badge" alt="monirujjamanma8" /></a> </p>
 
 - 🌱 I’m currently learning **React native, Php, MySql**
