@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/monirujjamanma8" target="blank"><img src="https://img.shields.io/twitter/follow/monirujjamanma8?logo=twitter&style=for-the-badge" alt="monirujjamanma8" /></a> </p>
 
-- 🌱 I’m currently learning **React native, Php, MySql**
+- 🌱 I’m currently learning **React native**
 
 - 👯 I’m looking to collaborate on **other developers**
 
-- 💬 Ask me about **ReactJs, NodeJs, Express.js**
+- 💬 Ask me about **ReactJs, NextJS, NodeJs, Express.js**
 
 - 📫 How to reach me **monirujjamanmamun2357@gmail.com**
 
-- 📄 Know about my experiences [https://resume.showwcase.com/monirujjaman57/1157.pdf](https://drive.google.com/file/d/11v2tuH0gkWISdAzEVcBrSsYz6Ve35eGt/view?usp=sharing)
+- 📄 Know about my experiences [https://resume.showwcase.com/monirujjaman57/1157.pdf](https://drive.google.com/file/d/1E7tO4oxv3Jaehi_rUj-a8l_d-NKnsK56/view?usp=drive_link)
 
 ![Header width="100%" height="300"](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
